@@ -1,0 +1,54 @@
+/* CSS Animal */
+ 
+.card{
+    width: 400px;
+    border: double #42441f 15px;
+    text-align: center;
+    background-image: url(http://markinternational.info/data/out/621/224400990-sand-picture.jpg);
+    margin: auto;
+    border-radius: 30px;
+}
+
+.image {
+    border-radius: 6px;
+    border: solid rgb(204, 181, 53) 4px;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+ul{
+list-style-type: none;
+padding: 0px 10px 0px 10px;
+}
+
+h1 {
+    font: bold 30px 'Copperplate Gothic Light';
+}
+
+.interestingfact {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+li{
+    text-align: center;
+    border: solid rgba(0, 0, 0, 0.712);
+}
+
+span {
+    color: #000000;
+    font: bold 20px center ;
+}
+
+h2 {
+    font:  30px 'Copperplate Gothic Light';
+    text-transform: uppercase;
+    color: #16150af6;
+    border: inset rgb(138, 121, 23) 3px;
+}
+
+.shortdesc {
+    font: italic 20px;
+    color: black;
+}
